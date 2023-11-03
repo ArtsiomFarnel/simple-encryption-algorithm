@@ -1,6 +1,6 @@
 #include <iostream>
 #include <bitset>
-#include "Geffe.h"
+#include "Geffe.hpp"
 
 using namespace std;
 
