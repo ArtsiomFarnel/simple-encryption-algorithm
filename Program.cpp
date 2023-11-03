@@ -4,8 +4,8 @@
 #include <string>
 #include <bitset>
 #include <cmath>
-#include "EichenauerLehn.h"
-#include "Geffe.h"
+#include "EichenauerLehn.hpp"
+#include "Geffe.hpp"
 
 using namespace std;
 
