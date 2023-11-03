@@ -1,5 +1,5 @@
 #include <iostream>
-#include "EichenauerLehn.h"
+#include "EichenauerLehn.hpp"
 
 using namespace std;
 
